@@ -38,6 +38,12 @@ tempo = 40
 
 if tempo > 40:
     print("it is too hot")
-
 else:
     print("it is too cold")
+
+AGE = 50
+
+if AGE > 40:
+    print("it is too OLD")
+else:
+    print("it is NOT THA OLD")
