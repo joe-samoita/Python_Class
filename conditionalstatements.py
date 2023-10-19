@@ -24,3 +24,12 @@ else:
 #  ASSIGNMENT
 #  PROGRAM THAT CHECKS WEATHER A LEAP YEAR OR NOT
 #  CHECKS WEATHER AN ALPHABET IS A VOWEL OR CONSONANT
+
+
+heat = 50
+
+if heat > 40:
+    print("it is too hot")
+
+else:
+    print("it is too cold")
