@@ -33,3 +33,11 @@ if heat > 40:
 
 else:
     print("it is too cold")
+
+tempo = 40
+
+if tempo > 40:
+    print("it is too hot")
+
+else:
+    print("it is too cold")
